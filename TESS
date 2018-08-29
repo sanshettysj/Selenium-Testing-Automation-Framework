@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Step">
+<Data>
+    <Name>Add-in(s) not activated</Name>
+    <Description>The following add-in(s) were associated with your test, but are not currently loaded: 
+ASPAjax, Dojo, ExtJS, GWT, jQueryUI, SiebelOpenUI, UIA, VisualBasic, YahooUI.</Description>
+    <StartTime>2017-08-09 15:46:21</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Transaction">
+<Data>
+    <Name>ATAF_Regression</Name>
+    <Description>Transaction "ATAF_Regression" started.</Description>
+    <StartTime>2017-08-09 15:46:26</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>2cfa2924825e4d65a5fb01238f75c5fa</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Start Transaction</NodeType>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Start Scenario</Name>
+    <Description>Scenario AXR_REG_TC_102 has started</Description>
+    <StartTime>2017-08-09 15:46:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Start Component</Name>
+    <Description>Component SNP_AXR_Int_Crdential has started</Description>
+    <StartTime>2017-08-09 15:46:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "iexplore.exe",1</Name>
+    <StartTime>2017-08-09 15:46:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>3d7e06438f5a478f9f17bb95ac0b6500</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Web_OpenBrowser</Name>
+    <Description>The browser with URL 'https://www-et1.abnamro.nl/portalserver/en/corporatebanking/reporting ' has been launched</Description>
+    <StartTime>2017-08-09 15:46:33</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Wait_Time</Name>
+    <Description>The browser waited for 5 seconds</Description>
+    <StartTime>2017-08-09 15:46:38</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Snippet Function not found</Name>
+    <Description>Exiting test iteration as Snippet Function in SNP_AXR_Int_Crdential is not found. </Description>
+    <StartTime>2017-08-09 15:46:38</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>End Component</Name>
+    <Description>Component SNP_AXR_Int_Crdential has ended</Description>
+    <StartTime>2017-08-09 15:46:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>End Scenario</Name>
+    <Description>Scenario AXR_REG_TC_102 has ended</Description>
+    <StartTime>2017-08-09 15:46:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>7e7433b94d964a44a45ffe5538a107eb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2017-08-09 15:46:21</StartTime>
+    <Duration>17</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>33798b99a5e34a5c936fb9ea23fcf396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Generic API Action</Name>
+    <Description />
+    <StartTime>2017-08-09 15:46:38</StartTime>
+    <Result>Done</Result>
+    <InputParameters>
+      <Parameter name="Ip_XML_Path" value="" type="System.String" />
+      <Parameter name="Op_XML_Path" value="" type="System.String" />
+      <Parameter name="Url" value="" type="System.String" />
+      <Parameter name="strComponentNameItr" value="" type="System.String" />
+      <Parameter name="API_Path" value="" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>33798b99a5e34a5c936fb9ea23fcf396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>ATAF_Regression</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.0</ToolVersion>
+    <Description />
+    <StartTime>2017-08-09 15:46:20</StartTime>
+    <Duration>18</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>e2e35e4d084c4bd4a37bd63801a55681</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>Nederlands (Nederland)</Locale>
+      <User>BRANCHES\C28061</User>
+      <CpuInfo>Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16053</TotalMemory>
+      <HostName>solon.prd\NLLR4000299314</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2017-08-09 15:46:20</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.0</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
